@@ -1,4 +1,4 @@
-# 🛒 Steps to Create an E-Commerce Website
+# Steps to Create an E-Commerce Website
 
 ## 1. Project Planning
 - Define your business model (B2C, B2B, C2C, etc.).
@@ -66,7 +66,7 @@
 
 ---
 
-## 📋 Typical E-Commerce Features
+## Typical E-Commerce Features
 
 - User registration/login (OAuth, social login)
 - Product management (CRUD)
@@ -94,7 +94,4 @@
 | Hosting    | Vercel, Netlify     | AWS           | DigitalOcean    |
 
 ---
-
-Need a **full database schema** or **sample code** for any step or stack?  
-Just tell me the backend/frontend tech you want to use, and I’ll create it for you!
 
