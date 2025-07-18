@@ -47,3 +47,5 @@ b. **Find all orders made by a customer named "Sok Dara"**
 c. **List the total quantity sold for each product**  
 d. **Show the details of order id = 1**
 
+### 5. Create FrontEnd(HTML + CSS + JS)
+
