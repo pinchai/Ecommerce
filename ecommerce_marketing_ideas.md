@@ -1,7 +1,7 @@
 # eCommerce Marketing Ideas
 
 ## 1. Social Media Marketing
-Use platforms like Facebook, Instagram, TikTok, and YouTube to promote products.
+Use platforms like Facebook, Instagram, TikTok, YouTube, Telegram  to promote products.
 
 ### Ideas
 - Post short product videos
