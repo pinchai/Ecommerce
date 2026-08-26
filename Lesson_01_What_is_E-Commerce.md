@@ -1,11 +1,5 @@
 # Lesson 01 — What is E-Commerce?
 
-**Course:** E-Commerce  
-**Lesson:** 01  
-**Duration:** 2 Hours  
-**Level:** Beginner  
-**Teaching Approach:** Concept → Examples → Discussion → Activity → Review
-
 ---
 
 ## 1. Learning Objectives
