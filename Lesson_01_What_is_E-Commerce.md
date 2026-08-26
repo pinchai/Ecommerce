@@ -1084,34 +1084,7 @@ payments
 
 ---
 
-# 22. Teacher Notes
-
-### Recommended Teaching Time
-
-| Section | Time |
-|---|---:|
-| Opening discussion | 10 min |
-| Commerce & E-Commerce | 20 min |
-| E-Commerce transaction flow | 20 min |
-| E-Commerce models | 25 min |
-| Core components | 15 min |
-| Advantages & challenges | 10 min |
-| Case study | 10 min |
-| Group activity | 15 min |
-| Quiz & review | 10 min |
-| **Total** | **135 min** |
-
-For a **2-hour class**, shorten the case study and group activity, or assign the database-thinking activity as homework.
-
-### Teaching Tip
-
-Do not begin with technical terms such as API, database, payment gateway, or framework.
-
-First make students understand:
-
 > **"E-commerce is a business transaction enabled by digital technology."**
-
-Then gradually show them that a real e-commerce platform is a collection of interconnected systems.
 
 ---
 
