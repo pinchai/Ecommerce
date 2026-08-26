@@ -27,10 +27,6 @@ Start the lesson with these questions:
 - Have you ever sold something online?
 - What happens after you click **Buy Now**?
 
-### Teacher's Key Idea
-
-Students already use e-commerce in daily life. The goal of this lesson is to understand **what happens behind an online transaction**, not just how to shop online.
-
 ---
 
 # 3. What is Commerce?
