@@ -70,12 +70,3 @@ Discuss:
 - Challenges such as digital literacy and security.
 - What government services should become fully online?
 
-## Presentation Requirements
-
-Each group should:
-
-1. Explain the assigned E-Commerce model.
-2. Give **at least 3 real-world examples**.
-3. Explain **3 advantages and 3 disadvantages**.
-4. Provide **one practical example or case study**.
-5. Prepare a **5–10 minute presentation**.
