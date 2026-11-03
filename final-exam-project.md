@@ -83,6 +83,7 @@ You are tasked with building a web store named **....Shop** supporting the follo
 Submit your completed project with the following deliverables:
 
 - **Live Demo**: Hosted/deployed project URL.
+- **Admin URL**: username, password
 - **Source Code**: GitHub repository link (public or accessible).
 - **Video Demo**: Short walkthrough video demonstrating all features and workflow.
 - **Submission Method**: Send To Telegram message Topic.
