@@ -77,3 +77,4 @@ Submit your completed project with the following deliverables:
 
 **Submission Format Example:**
 > `1. Heng Dara (Home Page and Product Detail Page)`
+> `2. ......`
