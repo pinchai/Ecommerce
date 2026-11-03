@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-Build a mini e-commerce web application using **Server-Side Rendering (SSR)** where customers can browse products, manage a shopping cart, and place orders with KHQR payment. An administrative interface is also required to manage product inventory.
+Build a mini e-commerce web application using **Server-Side Rendering (SSR)** where customers can browse products, manage a shopping cart, and place orders with KHQR payment. An administrative interface is also required to manage product inventory and view order history.
 
 ---
 
@@ -11,7 +11,7 @@ Build a mini e-commerce web application using **Server-Side Rendering (SSR)** wh
 You are tasked with building a web store named **....Shop** supporting the following key flows:
 
 - **Customers (Guests):** Browse product listings, view details, share to social channels, add items to a cart, and complete checkout using KHQR.
-- **Admin:** Manage products (view, add, edit, and delete).
+- **Admin:** Manage products (view, add, edit, delete) and view order history.
 
 ---
 
@@ -64,6 +64,10 @@ You are tasked with building a web store named **....Shop** supporting the follo
      - Status
    - Save or update product records.
 
+3. **Admin Order History**
+   - Display customer orders in a table view with: Order ID, Customer Name, Phone Number, Total Amount, and Order Date.
+   - Action: **View Order Details** (show purchased items, quantities, subtotal, and shipping address).
+
 ---
 
 ## 4. Technical Requirements
@@ -85,5 +89,5 @@ Submit your completed project with the following deliverables:
 
 **Submission Format Example:**
 > `1. Heng Dara (Home Page and Product Detail Page)`
-> 
+>
 > `2. ......`
