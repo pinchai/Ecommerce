@@ -81,8 +81,9 @@ Submit your completed project with the following deliverables:
 - **Live Demo**: Hosted/deployed project URL.
 - **Source Code**: GitHub repository link (public or accessible).
 - **Video Demo**: Short walkthrough video demonstrating all features and workflow.
-- **Submission Method**: Send directly via private Telegram message.
+- **Submission Method**: Send To Telegram message Topic.
 
 **Submission Format Example:**
 > `1. Heng Dara (Home Page and Product Detail Page)`
+> 
 > `2. ......`
